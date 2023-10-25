@@ -11,3 +11,5 @@ colnames(admission_df)
 
 # Get the info about the columns in the df
 str(admission_df)
+
+# New comment
